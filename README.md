@@ -10,7 +10,7 @@ A simple command-line To-Do List application in Java. Create, edit and view task
 ## Resources Used
 1. Java
 2. File I/O(File, FileWriter, PrintWriter)
-3. Scanner for user inut
+3. Scanner for user input
 
 ## How To Run
 1. Make sure Java is installed on your system.
@@ -21,7 +21,7 @@ A simple command-line To-Do List application in Java. Create, edit and view task
 
 ## How It Works
 The program displays a menu with options to create, edit, or display a to-do list.
-Tasks are store in a text file so they remain after the program exits.
+Tasks are stored in a text file so they remain after the program exits.
 Input validation prevents empty tasks and handles missing files gracefully.
 
 ## File Structure
